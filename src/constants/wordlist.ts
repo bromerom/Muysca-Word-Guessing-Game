@@ -1,34 +1,38 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-  'chuta'
-  'paba'
-  'uaia'
-  'caca'
-  'uexica'
-  'gyi'
-  'uecha'
-  'uaque'
-  'tyba'
-  'psihipqua'
-  'fuhucha'
-  'cha'
-  'muysca'
-  'pquyquy'
-  'tyhyba'
-  'goca'
-  'pquaca'
-  'pquaqueba'
-  'chispqua'
-  'yta'
-  'ine'
-  'gepqua'
-  'sica'
-  'upqua'
-  'cuhupqua'
-  'quyhyca'
-  'uba'
-  'coca'
+  'chuta',
+  'paba',
+  'uaia',
+  'caca',
+  'uexica',
+  'gyi',
+  'uecha',
+  'uaque',
+  'tyba',
+  'psihipqua',
+  'fuhucha',
+  'cha',
+  'muysca',
+  'pquyquy',
+  'tyhyba',
+  'goca',
+  'pquaca',
+  'pquaqueba',
+  'chispqua',
+  'yta',
+  'ine',
+  'gepqua',
+  'sica',
+  'upqua',
+  'cuhupqua',
+  'quyhyca',
+  'uba',
+  'coca',
+  'zysquy',
+  'guquyn',
+  'gyquyne',
+  'ybza',
 ]
 
 if (CONFIG.normalization) {
