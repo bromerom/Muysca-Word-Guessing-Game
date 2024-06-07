@@ -15,7 +15,6 @@ export const ORTHOGRAPHY = [
   'p',
   'pqu',
   'qu',
-  'q'
   's',
   't',
   'u',
